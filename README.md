@@ -5,11 +5,10 @@ Offical [integration guide](http://vercel.com/docs/integrations/shopify) has bee
 The project is [deployed](https://nextjs-commerce-2-0-sepia.vercel.app/) using vercel
 
 
+
 ## Running locally
 
-Add your environment variables to a `.env` file. It's recommended you use [Vercel Environment Variables](https://vercel.com/docs/concepts/projects/environment-variables), but a `.env` file is all that is necessary.
-
-These are the [required environment variables](https://vercel.com/docs/integrations/shopify#configure-environment-variables)
+Add your [environment variables](https://vercel.com/docs/integrations/shopify#configure-environment-variables) to a `.env` file. It's recommended you use [Vercel Environment Variables](https://vercel.com/docs/concepts/projects/environment-variables), but a `.env` file is all that is necessary.
 
 > Note: You should not commit your `.env` file or it will expose secrets that will allow others to control your Shopify store.
 
